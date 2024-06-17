@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: toci510nx-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/toci510nx-go
